@@ -1,0 +1,47 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+  padding-bottom: 70px;
+  padding-top: 50px;
+}
+
+img{
+   width:59.35px;
+   height:31.35px;
+}
+
+hr{
+  border: none;
+  height: 3px;
+  background-color: #A9A9A9;
+}
+
+.container {
+	width: 1324px;
+	padding: 2em;
+}
+
+.bold-blue {
+	font-weight: bold;
+	color: #0277BD;
+}
+
+.foo {
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.red{
+	background: red;
+}
+
+.green{
+	background: green;
+}
+
+.yellow{
+	background: yellow;
+}
+
